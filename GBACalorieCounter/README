@@ -1,0 +1,15 @@
+GBA Calorie Counter v0.1
+Hunter Davis, Nov 08
+GPL V3
+Uses HAM gba devkit
+
+Just a minwin style calorie counter.
+
+Instructions:
+Use the control pad to adjust your calorie count
+Press start to enter the options menu
+Press R+L to exit game
+
+Loading:
+Load the .gba file up into a cartridge or slot-loader for your gba.  It also works just fine in emulators like VBA and GBsp (shout out to Exo)
+
